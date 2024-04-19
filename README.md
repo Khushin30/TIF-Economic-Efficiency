@@ -55,3 +55,6 @@ A rigorous process of classifying business licenses into groups that correspond 
 Principal Component Analysis
 
 Results
+
+https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true))
