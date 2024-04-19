@@ -61,4 +61,4 @@ https://raw.githubusercontent.com/Khushin30/TIF-Economic-Efficiency/main/BusOutT
 
 
 
-![alt text]([https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true])
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true)
