@@ -58,4 +58,7 @@ Results
 
 https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true
 https://raw.githubusercontent.com/Khushin30/TIF-Economic-Efficiency/main/BusOutTIF.png
-![alt text]([https://raw.githubusercontent.com/Khushin30/TIF-Economic-Efficiency/main/BusOutTIF.png])
+
+
+
+![alt text]([https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true])
