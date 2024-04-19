@@ -35,13 +35,13 @@ By assigning businesses to these categories based on the frequency of their name
 
 Businesses outside a TIF:
 
-
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true)
 
 Small businesses are the most densely packed, indicating a larger number of businesses with fewer locations. Medium businesses are less dense, with fewer total businesses that have more locations than small businesses. Big businesses have the least density, with significantly fewer total businesses but many locations for each. Small businesses are more evenly distributed, reflecting their presence in various neighborhoods. Medium and big businesses show more clustering, which may reflect economic strategies that leverage location for market presence. The concentration of big businesses in particular areas implies a strategic choice, likely based on factors like high foot traffic, accessibility, and the demographic profile of neighborhoods.
 
 Businesses inside a TIF:
 
-
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusInTIF.png?raw=true)
 
 The small businesses map is the most saturated and densely populated with points, indicating a large number of businesses with fewer locations each. Medium businesses have a moderate level of saturation and density, while big businesses have the least, suggesting fewer businesses but possibly with more significant individual footprints. All maps are color-coded, which implies a classification beyond just size—perhaps industry type or nature of business. The variation in color distribution across the maps could reflect how different types of businesses scale from small to big. Each map presents a distinct spatial pattern that corresponds to the size of the businesses. Small businesses are widespread, medium businesses begin to show clusters, and big businesses exhibit strategic placement within the city.
 
@@ -61,4 +61,4 @@ https://raw.githubusercontent.com/Khushin30/TIF-Economic-Efficiency/main/BusOutT
 
 
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true)
+
