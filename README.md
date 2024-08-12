@@ -1,6 +1,6 @@
 Economic Efficiency of TIF Districts
 
-_Mehal Gosalia, Rajdeep Singh Konthoujam, Khushin Patel, Parth Patel, Ezekiel Oldham_
+_Khushin Patel, Mehal Gosalia, Rajdeep Singh Konthoujam, Parth Patel, Ezekiel Oldham_
 
 # **Abstract**
 
