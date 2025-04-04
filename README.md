@@ -52,7 +52,7 @@ After making these graphs, we realized it was not the best idea to go forward wi
 A comprehensive list of every chain company in Chicago was hand-compiled in an attempt to gain a complete understanding of the city's commercial environment. Based on their brand awareness and operational reach, national and local chain enterprises were included in this comprehensive compilation. Every national chain that is known to exist and is present in Chicago was identified; this process required a great deal of searching through several company directories and painstaking cross-referencing to guarantee correctness and comprehensiveness.
 
 Businesses outside a TIF:  
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF1.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/VisualizeBusOutTIF.png?raw=true)
 
 Businesses inside a TIF:
 
