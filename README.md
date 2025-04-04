@@ -56,7 +56,7 @@ Businesses outside a TIF:
 
 Businesses inside a TIF:
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizeBusInTIF.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizeBusInTIF1.png?raw=true)
 
 On the other hand, the local chains were distinguished not by a nationwide presence but by their importance inside the city or region. Every local chain, spanning many sectors, was painstakingly listed by name. Furthermore, a frequency study of the most common corporations in Chicago was carried out, with the companies being categorized based on the number of sites and size of their activities. This detailed analysis clarifies Chicago's dynamic economic climate in addition to highlighting the spread of chain stores. The following bar graph illustrate the same -
 
@@ -74,7 +74,7 @@ The y-axis quantifies the number of active businesses, while the x-axis represen
 
 A red line around the year 2008 signifies the creation of a Tax Increment Financing (TIF) district. The two dashed lines indicate the creation of TIF projects. The graph below shows us the active number of businesses around the TIF district, basically in the community areas.
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Bussinesses_over_the_years_in_TIF1.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/Bussinesses_over_the_years_in_TIF1.png?raw=true)
 
 We can conclude the following by comparing these two graphs:
 
