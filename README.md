@@ -35,7 +35,7 @@ By categorizing businesses into these groups based on how often their names appe
 
 Businesses outside a TIF:
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusOutTIF.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/result-imgs/BusOutTIF.png?raw=true)
 
 Small companies are the most closely spaced; they make up a larger percentage of firms with fewer locations overall. On the other hand, compared to their smaller counterparts, medium-sized firms are less densely populated, consisting of fewer companies but more locations. Big enterprises have the lowest density, with comparatively fewer entities, but each one typically has many sites. Small companies often have a wider footprint since they are more equally dispersed throughout different communities. Large and medium-sized enterprises, on the other hand, exhibit more clustering, indicating economic tactics that leverage particular locations to improve market awareness. Large corporations tend to concentrate in specific places as a result of deliberate decisions, probably influenced by local demographics, strong foot traffic, and accessibility.
 
