@@ -41,7 +41,7 @@ Small companies are the most closely spaced; they make up a larger percentage of
 
 Businesses inside a TIF:
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusInTIF.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizeBusInTIF.png?raw=true)
 
 The tiny business map, which shows a large number of businesses operating in a small number of locations, has the highest saturation and densest point population. Large companies have the least amount of saturation, indicating fewer businesses but maybe larger individual footprints; in contrast, medium-sized companies exhibit a moderate level of density and saturation. The color coding on each map suggests that there is more classification than just size, maybe according to the type of business or sector. The way the colors are distributed differently throughout the maps may represent how different business sizes range from little to massive. Each map shows a different geographic pattern based on the size of the businesses: Medium-sized businesses start to group together, while large businesses are placed thoughtfully around the city.
 
@@ -52,11 +52,11 @@ After making these graphs, we realized it was not the best idea to go forward wi
 A comprehensive list of every chain company in Chicago was hand-compiled in an attempt to gain a complete understanding of the city's commercial environment. Based on their brand awareness and operational reach, national and local chain enterprises were included in this comprehensive compilation. Every national chain that is known to exist and is present in Chicago was identified; this process required a great deal of searching through several company directories and painstaking cross-referencing to guarantee correctness and comprehensiveness.
 
 Businesses outside a TIF:  
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/VisualizeBusOutTIF.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizeBusOutTIF1.png?raw=true)
 
 Businesses inside a TIF:
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/BusInTIF1.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizeBusInTIF.png?raw=true)
 
 On the other hand, the local chains were distinguished not by a nationwide presence but by their importance inside the city or region. Every local chain, spanning many sectors, was painstakingly listed by name. Furthermore, a frequency study of the most common corporations in Chicago was carried out, with the companies being categorized based on the number of sites and size of their activities. This detailed analysis clarifies Chicago's dynamic economic climate in addition to highlighting the spread of chain stores. The following bar graph illustrate the same -
 
@@ -74,7 +74,7 @@ The y-axis quantifies the number of active businesses, while the x-axis represen
 
 A red line around the year 2008 signifies the creation of a Tax Increment Financing (TIF) district. The two dashed lines indicate the creation of TIF projects. The graph below shows us the active number of businesses around the TIF district, basically in the community areas.
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Combar.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Bussinesses_over_the_years_in_TIF1.png?raw=true)
 
 We can conclude the following by comparing these two graphs:
 
@@ -90,10 +90,10 @@ Nonetheless, there were a lot of difficulties with the categorization procedure.
 
 After splitting it into license groups, we created a csv file where we split the data into the 14 license groups showing the percentages of each business in each of the TIF districts. We then formed 14 different heatmaps for the same, basically showing how much of a TIF is made in that business and how scattered each business is. The heatmaps are as follows:
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/map1.png?raw=true)
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/map2.png?raw=true)
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/map3.png?raw=true)
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/map4.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/IndustryHeatmap1.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/IndustryHeatmap2.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/IndustryHeatmap3.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/IndustryHeatmap4.png?raw=true)
 
 # **Principal Component Analysis**
 
@@ -101,31 +101,31 @@ We want to understand whether or not TIF districts have an impact on the distrib
 
 ## _PCA of Business License Types in TIF Districts_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA1.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/PCA1.png?raw=true)
 
 _PCA of Business License Types in Non-TIF Regions_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA2.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/PCA2.png?raw=true)
 
 ## _PCA of Business License Types in TIF and Non-TIF Regions_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA3.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/PCA3.png?raw=true)
 
 There seems to be a small right-shift of the Non-TIF areas in the distribution, along principal component 0. The difference of sample means of the principal component 0 values between TIF and non-TIF areas is -0.1166, with 95% confidence interval \[-0.1498, -0.0834\]. Thus there is high confidence that the mean of principal component 1 values of TIFs is slightly less than non-TIF areas. This is largely due to TIFs having a higher business license value compared to non-TIF areas.
 
 ### _Explained Variance of Principal Component (Merged)_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA4.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/PCAVariance.png?raw=true)
 
 \* Variance explained by principal component 0 and 1 = 0.780242227372013
 
 ### _Principal Component 0 Values_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA5.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizePC0.png?raw=true)
 
 ### _Principal Component 1 Values_
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/PCA6.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/VisualizePC1.png?raw=true)
 
 #
 
@@ -137,13 +137,13 @@ There seems to be a small right-shift of the Non-TIF areas in the distribution, 
 
 **1 - p-value (One-Sided)**: Confidence in rejecting the null hypothesis that difference of means is greater/less than zero.
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/stats.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/stats.png?raw=true)
 
 **Businesses By Investments**
 
 We did an analysis on the TIFs by the amount of property taxes extracted in a year, and the percent change of licenses over the previous year.
 
-![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/lines.png?raw=true)
+![alt text](https://github.com/Khushin30/TIF-Economic-Efficiency/blob/main/Result-Imgs/Businesses_by_amount_of_investment.png?raw=true)
 
 As we see in this graph, the high investment TIFs(green line), and the medium investment TIFs(red line) follow a similar pattern to the non-TIF areas of Chicago(blue line). This means that the TIFs did not see any difference in their businesses licenses no matter the amount of investments made into them. The low investment TIFs(pink line) see a high volatility since they are TIFs with smaller areas, and therefore less businesses. This means that a small change in businesses was affecting their percentages by a big margin.
 
